@@ -1,5 +1,5 @@
 # 💫 About Me:
-1️⃣ You already saw my Name so this Line is just for some Space 😉<br>2️⃣ Self Taught Web Developer 👨‍💻 hoping to make a Breakthrough 🔝<br>3️⃣ Current Learning Status : React ⚛<br>4️⃣ Unconventional Programmer (I mean with a Social Life. PS: Follow my Socials) ✅<br>5️⃣ Football Enthusiast ⚽🤍
+1: You already saw my Name so this Line is just for some Space 😉<br>2: Self Taught Web Developer 👨‍💻 hoping to make a Breakthrough 🔝<br>3: Current Learning Status : React ⚛<br>4: Unconventional Programmer (I mean with a Social Life. PS: Follow my Socials) ✅<br>5: Football Enthusiast ⚽🤍
 
 
 ## 🌐 Socials:
